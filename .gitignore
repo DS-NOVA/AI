@@ -10,8 +10,6 @@ __pycache__/
 *.so
 
 # Data and model files
-data/
-models/
 *.ckpt
 *.h5
 *.pt
