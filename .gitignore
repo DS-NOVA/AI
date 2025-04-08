@@ -7,7 +7,6 @@ env/
 # Python cache files
 __pycache__/
 *.py[cod]
-*.so
 
 # Data and model files
 *.ckpt
