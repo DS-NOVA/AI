@@ -1,0 +1,39 @@
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Data and model files
+data/
+models/
+*.ckpt
+*.h5
+*.pt
+*.pth
+*.npz
+*.onnx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and outputs
+logs/
+outputs/
+
+# Environment variables
+.env
+*.env
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
