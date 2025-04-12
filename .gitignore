@@ -3,6 +3,7 @@ venv/
 ENV/
 env/
 .venv/
+ai_env/
 
 # Python cache files
 __pycache__/
