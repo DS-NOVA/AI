@@ -35,3 +35,8 @@ outputs/
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+data_generation/
+data/results/personal_label/유정_라벨링_최종.zip
+data/results/personal_label/정민_라벨링.zip
+data/results/personal_label/진선_라벨링_최종.zip
