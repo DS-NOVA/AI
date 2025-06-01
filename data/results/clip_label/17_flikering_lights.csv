@@ -17,7 +17,7 @@ clip_id,PHF,PHR,PFS,PS,PSP,PHP,flash,pattern
 17_flikering_lights_clip_0015,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0016,1,0,0,1,0,0,0,0
 17_flikering_lights_clip_0017,1,1,0,1,0,0,1,0
-17_flikering_lights_clip_0018,1,1,1,1,0,0,1,0
+17_flikering_lights_clip_0018,1,0,1,1,0,0,1,0
 17_flikering_lights_clip_0019,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0020,1,0,0,1,0,0,0,0
 17_flikering_lights_clip_0021,1,1,1,1,0,0,1,0
@@ -27,7 +27,7 @@ clip_id,PHF,PHR,PFS,PS,PSP,PHP,flash,pattern
 17_flikering_lights_clip_0025,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0026,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0027,1,0,0,1,0,0,0,0
-17_flikering_lights_clip_0028,1,0,1,1,0,0,1,0
+17_flikering_lights_clip_0028,1,0,0,1,0,0,1,0
 17_flikering_lights_clip_0029,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0030,1,1,0,1,0,0,1,0
 17_flikering_lights_clip_0031,1,0,0,1,0,0,0,0
@@ -42,12 +42,12 @@ clip_id,PHF,PHR,PFS,PS,PSP,PHP,flash,pattern
 17_flikering_lights_clip_0040,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0041,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0042,1,0,0,1,0,0,0,0
-17_flikering_lights_clip_0043,1,0,0,1,0,0,1,0
+17_flikering_lights_clip_0043,1,0,0,1,0,0,0,0
 17_flikering_lights_clip_0044,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0045,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0046,1,0,0,1,0,0,0,0
 17_flikering_lights_clip_0047,1,1,1,1,0,0,1,0
-17_flikering_lights_clip_0048,1,1,0,1,0,0,1,0
+17_flikering_lights_clip_0048,1,0,1,1,0,0,1,0
 17_flikering_lights_clip_0049,1,1,0,1,0,0,1,0
 17_flikering_lights_clip_0050,1,0,0,1,0,0,0,0
 17_flikering_lights_clip_0051,1,1,1,1,0,0,1,0
@@ -82,7 +82,7 @@ clip_id,PHF,PHR,PFS,PS,PSP,PHP,flash,pattern
 17_flikering_lights_clip_0080,1,0,0,1,0,0,0,0
 17_flikering_lights_clip_0081,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0082,1,1,1,1,0,0,1,0
-17_flikering_lights_clip_0083,1,1,0,1,0,0,0,0
+17_flikering_lights_clip_0083,1,1,0,1,0,0,1,0
 17_flikering_lights_clip_0084,1,0,0,1,0,0,0,0
 17_flikering_lights_clip_0085,1,1,1,1,0,0,1,0
 17_flikering_lights_clip_0086,1,1,1,1,0,0,1,0

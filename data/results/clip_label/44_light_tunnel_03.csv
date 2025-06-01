@@ -29,13 +29,13 @@ clip_id,PHF,PHR,PFS,PS,PSP,PHP,flash,pattern
 44_light_tunnel_03_clip_0027,1,0,0,1,1,0,1,1
 44_light_tunnel_03_clip_0028,1,0,0,1,1,1,1,1
 44_light_tunnel_03_clip_0029,1,0,0,1,1,0,1,1
-44_light_tunnel_03_clip_0030,1,0,1,1,1,1,1,1
+44_light_tunnel_03_clip_0030,1,0,0,1,1,1,1,1
 44_light_tunnel_03_clip_0031,1,0,1,1,1,1,1,1
-44_light_tunnel_03_clip_0032,1,0,0,1,1,1,1,1
+44_light_tunnel_03_clip_0032,0,0,0,0,1,1,1,1
 44_light_tunnel_03_clip_0033,1,0,0,1,1,1,1,1
 44_light_tunnel_03_clip_0034,1,0,0,1,1,1,1,1
 44_light_tunnel_03_clip_0035,1,0,0,1,1,1,1,1
-44_light_tunnel_03_clip_0036,1,0,0,1,1,1,1,1
+44_light_tunnel_03_clip_0036,1,0,0,1,1,0,1,1
 44_light_tunnel_03_clip_0037,1,0,0,1,1,1,1,1
 44_light_tunnel_03_clip_0038,1,0,0,1,1,0,1,1
 44_light_tunnel_03_clip_0039,0,0,0,0,1,0,1,1
@@ -52,7 +52,7 @@ clip_id,PHF,PHR,PFS,PS,PSP,PHP,flash,pattern
 44_light_tunnel_03_clip_0050,1,0,0,1,1,1,1,1
 44_light_tunnel_03_clip_0051,1,0,0,1,1,1,1,1
 44_light_tunnel_03_clip_0052,0,0,0,0,1,0,1,1
-44_light_tunnel_03_clip_0053,1,0,0,1,1,0,1,1
-44_light_tunnel_03_clip_0054,0,0,0,0,1,0,1,1
+44_light_tunnel_03_clip_0053,0,0,0,0,1,0,1,1
+44_light_tunnel_03_clip_0054,1,0,0,1,1,0,1,1
 44_light_tunnel_03_clip_0055,0,0,0,0,1,0,1,1
 44_light_tunnel_03_clip_0056,0,0,0,0,1,0,1,1
